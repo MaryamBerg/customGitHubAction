@@ -31,6 +31,6 @@
    ### `time`
    The time of the message.
    ## Example usage
-   uses: chamindac/demojsaction@v1.1
+   uses: marissatee/customGitHubAction@v2
    with:
    name-of-you: 'Marija'
