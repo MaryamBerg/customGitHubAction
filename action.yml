@@ -10,4 +10,4 @@ outputs:
     description: 'The time of the message'
 runs:
   using: 'node12'
-  main: 'dist/index.js' # TODO sta mu je ovaj dist/index.js file mnogo je dug i razlikuje se od index.js koji sam ja napisalal
+  main: 'dist/index.js' # ovo je put od root dir to mesta gde je index.js koji ima ceo kod ove custom action
